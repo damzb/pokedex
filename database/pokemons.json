@@ -1,0 +1,49 @@
+{
+	"pokemons" : [
+		{
+			"id": "001", 
+			"name": "Bulbasaur",
+			"catch_rate": "45 (11.9%)",
+			"height": 0.7,
+			"weight": 6.9,
+			"type": [
+				{
+					"name": "Grass"
+				},
+				{
+					"name": "Poison"
+				}
+			],
+			"color": "rgba(162, 208, 187, 0.5)",
+			"description": "Bulbasaur (Japanese: フシギダネ Fushigidane) is a dual-type Grass/Poison Pokémon introduced in Generation I.<br /><br />It evolves into Ivysaur starting at level 16, which evolves into Venusaur starting at level 32.<br /><br />Along with Charmander and Squirtle, Bulbasaur is one of three starter Pokémon of Kanto available at the beginning of Pokémon Red, Green, Blue, FireRed, and LeafGreen."
+		},
+		{
+			"id": "004", 
+			"name": "Charmander",
+			"catch_rate": "45 (11.9%)",
+			"height": 0.6,
+			"weight": 8.5,
+			"type": [
+				{
+					"name": "Fire"
+				}
+			],
+			"color": "rgba(226, 181, 139, 0.5)",
+			"description": "Charmander (Japanese: ヒトカゲ Hitokage) is a Fire-type Pokémon introduced in Generation I.<br /><br />It evolves into Charmeleon starting at level 16, which evolves into Charizard starting at level 36.<br /><br />Along with Bulbasaur and Squirtle, Charmander is one of three starter Pokémon of Kanto available at the beginning of Pokémon Red, Green, Blue, FireRed, and LeafGreen."
+		},
+		{
+			"id": "007", 
+			"name": "Squirtle",
+			"catch_rate": "45 (11.9%)",
+			"height": 0.5,
+			"weight": 9.0,
+			"type": [
+				{
+					"name": "Water"
+				}
+			],
+			"color": "rgba(174, 210, 222, 0.5)",
+			"description": "Squirtle (Japanese: ゼニガメ Zenigame) is a Water-type Pokémon introduced in Generation I.<br /><br />It evolves into Wartortle starting at level 16, which evolves into Blastoise starting at level 36.<br /><br />Along with Bulbasaur and Charmander, Squirtle is one of three starter Pokémon of Kanto available at the beginning of Pokémon Red, Green, Blue, FireRed, and LeafGreen."
+		}
+	]
+}
